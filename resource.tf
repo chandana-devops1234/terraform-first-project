@@ -14,7 +14,7 @@ resource "azurerm_resource_group" "storeterra" {
  
 resource "azurerm_storage_account" "saterra" {
 
-    name                     = "terrastorage990"
+    name                     = "terrastorage5050"
 
     resource_group_name      = azurerm_resource_group.storeterra.name
 
